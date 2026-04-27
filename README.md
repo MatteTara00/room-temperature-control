@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on the control of temperature in a four-room building using Linear Matrix Inequalities (LMIs). The system is modeled as a multi-input multi-output (MIMO) dynamic system, where each room is treated as a subsystem with its own temperature dynamics.
+This university project focuses on the control of temperature in a four-room building using Linear Matrix Inequalities (LMIs). The system is modeled as a multi-input multi-output (MIMO) dynamic system, where each room is treated as a subsystem with its own temperature dynamics.
 
 Different control architectures are investigated, including centralized, decentralized, and distributed approaches, and their performance is evaluated in both continuous and discrete time domains.
 
